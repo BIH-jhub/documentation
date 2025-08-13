@@ -1,7 +1,11 @@
 
 # Documentation
 
-This is the user-documentation of the JupyterHub instance at [https://jhub.bihealth.org](https://jhub.bihealth.org).
+This is the user-documentation of the [BIH-Jhub](https://jhub.bihealth.org) JupyterHub instance.
+
+## Usage
+
+BIH-JHub is available to users within the scope of specific projects. Access is managed by the respective group administrators. Through these projects, users can access various datasets. For questions regarding access, please contact [dmbs@bih-charite.de](mailto:dmbs@bih-charite.de) or the specific group admins.
 
 ## JupyterHub Custom Conda Environment Setup
 
