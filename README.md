@@ -18,7 +18,7 @@ conda init
 /bin/bash
 ```
 
-### 2. Configure Conda channels and environment directory
+### 2. Configure environment directory
 
 Create a `.condarc` file with the following content (e.g. by typing `vi .condarc` in the terminal):
 
